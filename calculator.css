@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(120deg, #8478b9, #4f37b9  );
+    color: white;
+    font-family: "Poppins", sans-serif;
+    height: 100vh;
+}
+
+header{
+    font-size: 1.5rem;
+}
+
+.nav-item {
+    color: white;
+}
+form {
+    padding: 12%;
+    justify-content: center;
+    display: flex;
+    min-height: 10vh;
+}
+
+
+.buttons-container {
+    justify-content: center;
+     display: flex;
+    align-items: center;
+
+}
+
+button:hover{
+    background: #080418;
+    color: white;
+}
